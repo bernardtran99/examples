@@ -1,0 +1,5 @@
+﻿  11-15-2018 Lecture Notes.cpp
+c:\users\berna\source\repos\11-15-2018 lecture notes\11-15-2018 lecture notes\11-15-2018 lecture notes.cpp(90): warning C4101: 'middle2': unreferenced local variable
+c:\users\berna\source\repos\11-15-2018 lecture notes\11-15-2018 lecture notes\11-15-2018 lecture notes.cpp(89): warning C4101: 'middle1': unreferenced local variable
+c:\users\berna\source\repos\11-15-2018 lecture notes\11-15-2018 lecture notes\11-15-2018 lecture notes.cpp(167): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  11-15-2018 Lecture Notes.vcxproj -> C:\Users\berna\source\repos\11-15-2018 Lecture Notes\Debug\11-15-2018 Lecture Notes.exe
