@@ -1,2 +1,3 @@
-# dsd
-Digital System Design
+# Example Projects
+
+Contains a variety of projects demonstrating C++ knowledge
