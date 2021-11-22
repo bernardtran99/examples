@@ -1,3 +1,3 @@
-# Example Projects
+# Examples
 
-Contains a variety of projects demonstrating C++ knowledge
+Contains C++ references for future
